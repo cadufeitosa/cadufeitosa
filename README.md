@@ -1,11 +1,11 @@
-<h2> Hey there! I'm ph.</h2>
+<h2> Hey there! I'm Cadu.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 💼 &nbsp; I’m currently working on CNM's project.
-- 🌱 &nbsp; Learning more about React, C# and FiveM Development.
-- ✍️ &nbsp; I’m looking to collaborate on FiveM and help with GTA RP Development.
+- 💼 &nbsp; I’m currently working on Menu on the Table and a few other projects.
+- 🌱 &nbsp; Learning more about React, Express and MongoDB.
+- ✍️ &nbsp; I’m looking to collaborate on any backend projects as well as any FiveM related projects.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
@@ -16,7 +16,7 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
-  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=4bc425)
+  ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
@@ -25,6 +25,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![IntelliJ](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
@@ -33,9 +34,9 @@
 
 <h3> ⚙️  GitHub Analytics </h3>
   
-<a href="https://github.com/http-ph">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=http-ph&theme=react&show_icons=true" style"max-width: 100%;" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=http-ph&theme=react&layout=compact" style"max-width: 100%;" />
+<a href="https://github.com/cadufeitosa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cadufeitosa&theme=react&show_icons=true" style"max-width: 100%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadufeitosa&theme=react&layout=compact" style"max-width: 100%;" />
 </a>
 
 <br/>
