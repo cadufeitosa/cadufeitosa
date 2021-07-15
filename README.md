@@ -41,4 +41,4 @@
 
 <br/>
 
-<img src="https://profile-counter.glitch.me/GabrielCastroSilva/count.svg" alt="hit counter" align="center">
+<img src="https://profile-counter.glitch.me/cadufeitosa/count.svg" alt="hit counter" align="center">
