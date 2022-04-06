@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 💼 &nbsp; I’m currently working on Ravena, Matched, Menu on the Table and a few other projects.
-- 🌱 &nbsp; Learning more about React, Express and MongoDB.
+- 🌱 &nbsp; Learning more about NextJS, Socket.io and React Native.
 - ✍️ &nbsp; I’m looking to collaborate on any backend projects as well as any FiveM related projects.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
