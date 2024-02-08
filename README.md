@@ -3,8 +3,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 💼 &nbsp; I’m currently working on Matched.
-- 🌱 &nbsp; Learning more about NextJS, Socket.io and React Native.
+- 💼 &nbsp; I’m currently working on Ravena Bot.
+- 🌱 &nbsp; Learning more about NextJS, SolidJS, CapRover and React Native.
 - ✍️ &nbsp; I’m looking to collaborate on any backend projects as well as any FiveM related projects.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
